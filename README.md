@@ -34,4 +34,7 @@ Having had a school automation project aimed at creating virtual machines thanks
     * Show the legend of color codes                              
     * Disconnect all active consoles connected to vSphere     
 
-Both scripts have the ability to send success, error, cancellation and general report emails
+Both scripts have the ability to send success, error, cancellation and general report emails.
+In the scripts you will find a more detailed read-me.
+
+Kyosuko
