@@ -36,5 +36,8 @@ Having had a school automation project aimed at creating virtual machines thanks
 
 Both scripts have the ability to send success, error, cancellation and general report emails.
 In the scripts you will find a more detailed read-me.
-<a href='https://www.casimages.com/i/201230110846892455.png.html' title='Mon image' target='_blank'><img src='https://nsa40.casimages.com/img/2020/12/30/mini_201230110846892455.png' border='0' alt='Mon image' /></a>
+<a href="https://www.casimages.com/i/20123011113625783417191379.png.html" title="Mon image" target="_blank"><img src="https://nsm09.casimages.com/img/2020/12/30//mini_20123011113625783417191379.png" border="0" alt="Mon image" /></a>
+Screenshots : 
+
+
 Kyosuko
