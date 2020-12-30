@@ -36,8 +36,18 @@ Having had a school automation project aimed at creating virtual machines thanks
 
 Both scripts have the ability to send success, error, cancellation and general report emails.
 In the scripts you will find a more detailed read-me.
-<a href="https://www.casimages.com/i/20123011113625783417191379.png.html" title="Mon image" target="_blank"><img src="https://nsm09.casimages.com/img/2020/12/30//mini_20123011113625783417191379.png" border="0" alt="Mon image" /></a>
+
 Screenshots : 
+
+<a href="https://www.casimages.com/i/20123011113625783417191379.png.html" title="Mon image" target="_blank"><img src="https://nsm09.casimages.com/img/2020/12/30//mini_20123011113625783417191379.png" border="0" alt="Mon image" /></a>
+<a href="https://www.casimages.com/i/20123011113525783417191374.png.html" title="Mon image" target="_blank"><img src="https://nsm09.casimages.com/img/2020/12/30//mini_20123011113525783417191374.png" border="0" alt="Mon image" /></a>
+<a href="https://www.casimages.com/i/20123011113625783417191377.png.html" title="Mon image" target="_blank"><img src="https://nsm09.casimages.com/img/2020/12/30//mini_20123011113625783417191377.png" border="0" alt="Mon image" /></a>
+<a href="https://www.casimages.com/i/20123011113625783417191380.png.html" title="Mon image" target="_blank"><img src="https://nsm09.casimages.com/img/2020/12/30//mini_20123011113625783417191380.png" border="0" alt="Mon image" /></a>
+<a href="https://www.casimages.com/i/20123011113725783417191381.png.html" title="Mon image" target="_blank"><img src="https://nsm09.casimages.com/img/2020/12/30//mini_20123011113725783417191381.png" border="0" alt="Mon image" /></a>
+<a href="https://www.casimages.com/i/20123011113525783417191376.png.html" title="Mon image" target="_blank"><img src="https://nsm09.casimages.com/img/2020/12/30//mini_20123011113525783417191376.png" border="0" alt="Mon image" /></a>
+<a href="https://www.casimages.com/i/20123011113625783417191378.png.html" title="Mon image" target="_blank"><img src="https://nsm09.casimages.com/img/2020/12/30//mini_20123011113625783417191378.png" border="0" alt="Mon image" /></a>
+<a href="https://www.casimages.com/i/20123011113525783417191375.png.html" title="Mon image" target="_blank"><img src="https://nsm09.casimages.com/img/2020/12/30//mini_20123011113525783417191375.png" border="0" alt="Mon image" /></a>
+<a href="https://www.casimages.com/i/20123011113725783417191382.png.html" title="Mon image" target="_blank"><img src="https://nsm09.casimages.com/img/2020/12/30//mini_20123011113725783417191382.png" border="0" alt="Mon image" /></a>
 
 
 Kyosuko
