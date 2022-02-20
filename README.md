@@ -2,7 +2,7 @@
 
 Hi,
 
-Having had a school automation project aimed at creating virtual machines thanks to PowerCLI through PowerShell, following this I would like to share my scripts with you:
+Automation project aimed at creating virtual machines thanks to PowerCLI through PowerShell, following this I would like to share my scripts with you:
 
 - The script "Create Vm-v1.0" is the script to create several virtual machines from and with a confirmation at each creation of virtual machines.
 - The script "Auto-Deploy-v1.0" is the script in the business partner case (deployment for customers Ex: OVH, FFG ...) with many functions:
@@ -17,7 +17,7 @@ Having had a school automation project aimed at creating virtual machines thanks
   error message. There are yet many others options of verifications .. !
 
     * Create virtual machine                                     
-    * Creation of virtual machines since a CSV file with the choice to import iso file then connect on   virtual machines and start all machines after creation
+    * Creation of virtual machines since a CSV file with the choice to import iso file then connect on virtual machines and start all machines after creation
     * Create a folder for location virtual machines from vSphere 
     * Modify a value in a CSV file                               
     * Delete virtual machine                                     
