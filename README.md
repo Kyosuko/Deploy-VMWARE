@@ -2,7 +2,7 @@
 
 Hi,
 
-Automation project aimed at creating virtual machines thanks to PowerCLI through PowerShell, following this I would like to share my scripts with you:
+I encountered the need to create several virtual machines and therefore about an automation project aimed at creating virtual machines thanks to PowerCLI through PowerShell, following this I would like to share my scripts with you:
 
 - The script "Create Vm-v1.0" is the script to create several virtual machines from and with a confirmation at each creation of virtual machines.
 - The script "Auto-Deploy-v1.0" is the script in the business partner case (deployment for customers Ex: ZVH, FFG ...) with many functions:
