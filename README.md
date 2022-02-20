@@ -5,7 +5,7 @@ Hi,
 Automation project aimed at creating virtual machines thanks to PowerCLI through PowerShell, following this I would like to share my scripts with you:
 
 - The script "Create Vm-v1.0" is the script to create several virtual machines from and with a confirmation at each creation of virtual machines.
-- The script "Auto-Deploy-v1.0" is the script in the business partner case (deployment for customers Ex: OVH, FFG ...) with many functions:
+- The script "Auto-Deploy-v1.0" is the script in the business partner case (deployment for customers Ex: ZVH, FFG ...) with many functions:
 
   ! For all functions there are a check if PowerCLI is installed also when
   the script is launched and if not installed you receive a message which 
